@@ -4,6 +4,4 @@ This repository contains the source code of **STARS**, our framework for stabili
 
 The STARS framework is implemented in **Julia**, leveraging the **JuMP** modeling language for mathematical optimization. We employ **Gurobi 11.0.2** as the optimization solver. By sharing our code, we aim to help the research community validate our results and build upon our work.
 
-> **Note:** This work is currently under review. The code will be released soon—stay tuned!
-
 We encourage researchers and practitioners to use, test, and extend this implementation once it is available. If you have questions or suggestions, please feel free to open an issue or contact us on mohammed.mahyoub@carleton.com
